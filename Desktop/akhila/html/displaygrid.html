@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        .item1 {
+            grid-area: aa;
+        }
+
+        .item2 {
+            grid-area: bb;
+        }
+
+        .item3 {
+            grid-area: cc;
+        }
+
+        .item4 {
+            grid-area: dd;
+        }
+
+        .item5 {
+            grid-area: ee;
+        }
+
+        .item6 {
+            grid-area: ff;
+        }
+
+        .item7 {
+            grid-area: gg;
+        }
+
+        .grid-container {
+            display: grid;
+            background-color: aliceblue;
+            padding: 10px;
+            grid-template-areas:
+                "aa aa aa aa bb bb"
+                "cc cc dd dd ee ee"
+                "ff ff ff gg gg gg";
+            gap: 15px 0;
+            padding: 10px;
+        }
+
+        .grid-container > div {
+            border: 1px solid purple;
+            background-color: rgb(197, 156, 197);
+            text-align: center;
+            padding: 10px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="grid-container">
+        <div class="item1">.col-md-8</div>
+        <div class="item2">.col-6.col-md-4</div>
+        <div class="item3">.col-6.col-md-4</div>
+        <div class="item4">.col-6.col-md-4</div>
+        <div class="item5">.col-6.col-md-4</div>
+        <div class="item6">.col-6</div>
+        <div class="item7">.col-6</div>
+    </div>
+</body>
+
+</html>

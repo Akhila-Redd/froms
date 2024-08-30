@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .grid-container {
+            display: grid;
+            /* background-color: aliceblue; */
+            /* grid-template-columns: auto auto auto; */
+            gap: 15px 0;
+        }
+        .row1{
+            display: grid;
+            grid-template-columns: 75% auto;
+            text-align: center;
+            border:1px solid rgb(158, 142, 158);
+        }
+        .row1>div{
+            border:1px solid rgb(156, 40, 156);
+
+            background-color: rgb(212, 192, 212);
+            padding:15px;
+        }
+        .row2{
+            display: grid;
+            border:1px solid rgb(158, 142, 158);
+
+            grid-template-columns: auto auto auto;
+            text-align: center;
+        }
+        .row2>div{
+            border:1px solid purple;
+            background-color: rgb(212, 192, 212);
+            padding:15px;
+        }
+        .row3{
+            border:1px solid rgb(158, 142, 158);
+            display: grid;
+            grid-template-columns: auto auto;
+            text-align: center;
+        }
+        .row3>div{
+            border:1px solid purple;
+            background-color: rgb(212, 192, 212);
+            padding:15px;
+        }
+
+        
+    </style>
+</head>
+
+<body>
+    <div class="grid-container">
+        <div class="row1">
+            <div class="item1">.col-md-8</div>
+            <div class="item2">.col-6.col-md-4</div>
+        </div>
+        <div class="row2">
+            <div class="item3">.col-6.col-md-4</div>
+            <div class="item4">.col-6.col-md-4</div>
+            <div class="item5">.col-6.col-md-4</div>
+        </div>
+        <div class="row3">
+            <div class="item6">.col-6</div>
+            <div class="item7">.col-6</div>
+        </div>
+    </div>
+</body>
+
+</html>
+
+<!-- .grid-container > div{
+    background-color: rgb(149, 133, 149);
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    /* border: 1px solid black; */
+}
+
+/* .item1 {
+    grid-column: 1/span 2;
+} */
+.row1{
+    display: grid;
+    grid-row: auto auto;
+}
+
+/* .item6{ grid-column:50%;} */ -->
