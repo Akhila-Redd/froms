@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Alice Johnson",
+        "serial": 101,
+        "mobile": "1234567890",
+        "address": "123 Elm Street, Springfield",
+        "date": "2000-05-15",
+        "department": "Electrical & Electronics",
+        "email": "alice.johnson@example.com",
+        "father": "Robert Johnson",
+        "mother": "Sarah Johnson"
+    },
+    {
+        "name": "Michael Smith",
+        "serial": 182,
+        "mobile": "0987654321",
+        "address": "456 Maple Avenue, Springfield",
+        "date": "1999-08-20",
+        "department": "Computers",
+        "email": "michael.smith@example.com",
+        "father": "David Smith",
+        "mother": "Laura Smith"
+    },
+    {
+        "name": "Emily Davis",
+        "serial": 1703,
+        "mobile": "1231231234",
+        "address": "789 Pine Road, Springfield",
+        "date": "2001-12-30",
+        "department": "Mechanical",
+        "email": "emily.davis@example.com",
+        "father": "Charles Davis",
+        "mother": "Nancy Davis"
+    },
+    {
+        "name": "Alice Johnson",
+        "serial": 234,
+        "mobile": "1234567890",
+        "address": "123 Elm Street, Springfield",
+        "date": "2000-05-15",
+        "department": "Electrical & Electronics",
+        "email": "alice.johnson@example.com",
+        "father": "Robert Johnson",
+        "mother": "Sarah Johnson"
+    },
+    {
+        "name": "Michael Smith",
+        "serial": 682,
+        "mobile": "0987654321",
+        "address": "456 Maple Avenue, Springfield",
+        "date": "1999-08-20",
+        "department": "Computers",
+        "email": "michael.smith@example.com",
+        "father": "David Smith",
+        "mother": "Laura Smith"
+    },
+    {
+        "name": "Emily Davis",
+        "serial": 45,
+        "mobile": "1231231234",
+        "address": "789 Pine Road, Springfield",
+        "date": "2001-12-30",
+        "department": "Mechanical",
+        "email": "emily.davis@example.com",
+        "father": "Charles Davis",
+        "mother": "Nancy Davis"
+    },
+    {
+        "name": "Alice Johnson",
+        "serial": 45,
+        "mobile": "1234567890",
+        "address": "123 Elm Street, Springfield",
+        "date": "2000-05-15",
+        "department": "Electrical & Electronics",
+        "email": "alice.johnson@example.com",
+        "father": "Robert Johnson",
+        "mother": "Sarah Johnson"
+    },
+    {
+        "name": "Michael Smith",
+        "serial": 12,
+        "mobile": "0987654321",
+        "address": "456 Maple Avenue, Springfield",
+        "date": "1999-08-20",
+        "department": "Computers",
+        "email": "michael.smith@example.com",
+        "father": "David Smith",
+        "mother": "Laura Smith"
+    },
+    {
+        "name": "Emily Davis",
+        "serial": 87,
+        "mobile": "1231231234",
+        "address": "789 Pine Road, Springfield",
+        "date": "2001-12-30",
+        "department": "Mechanical",
+        "email": "emily.davis@example.com",
+        "father": "Charles Davis",
+        "mother": "Nancy Davis"
+    },
+    {
+        "name": "Alice Johnson",
+        "serial": 2134,
+        "mobile": "1234567890",
+        "address": "123 Elm Street, Springfield",
+        "date": "2000-05-15",
+        "department": "Electrical & Electronics",
+        "email": "alice.johnson@example.com",
+        "father": "Robert Johnson",
+        "mother": "Sarah Johnson"
+    },
+    {
+        "name": "Michael Smith",
+        "serial": 239,
+        "mobile": "0987654321",
+        "address": "456 Maple Avenue, Springfield",
+        "date": "1999-08-20",
+        "department": "Computers",
+        "email": "michael.smith@example.com",
+        "father": "David Smith",
+        "mother": "Laura Smith"
+    },
+    {
+        "name": "Emily Davis",
+        "serial": 902344,
+        "mobile": "1231231234",
+        "address": "789 Pine Road, Springfield",
+        "date": "2001-12-30",
+        "department": "Mechanical",
+        "email": "emily.davis@example.com",
+        "father": "Charles Davis",
+        "mother": "Nancy Davis"
+    }
+]
